@@ -6,7 +6,6 @@
 
 |  김현열  |  채민진  | 엄지용  | 신용하  |  김태경  |
 | :------: | :------: | :-----: | :-----: | :------: |
-|   INFJ   |   INFJ   |  INFP   |  INFP   |   ISTJ   |
 | Frontend | Frontend | Backend | Backend | Frontend |
 
 
@@ -194,65 +193,78 @@ FRONTEND
 
   ![로그인](readme.assets/로그인.gif)
 
-  
+
+
 
 - 감성 페어 찾기
 
-  ![감성 페어 찾기 gif-16679796256149](readme.assets/감성 페어 찾기 gif-16679796256149.gif)
+![pair_search](readme.assets/pair_search.gif)
+
+
 
 - 매칭 모달
 
-<img src="readme.assets/감성 페어와 매칭 성공 모달.png" alt="감성 페어와 매칭 성공 모달" style="zoom: 50%;" />
+![matching_modal](readme.assets/matching_modal.png)
 
 
 
 - 친구와 일기 만들기
 
-  ![친구랑 일기 만들기 gif](readme.assets/친구랑 일기 만들기 gif.gif)
+  ![create_diary_friend](readme.assets/create_diary_friend.gif)
 
 
 
 
 - 다이어리 작성
 
-  ![다이어리 작성 gif](readme.assets/다이어리 작성 gif.gif)
+  ![diary_create](readme.assets/diary_create.gif)
 
+  
+  
   
 
 
 - 다이어리 꾸미기
 
-  ![다이어리 커버 꾸미기 gif](readme.assets/다이어리 커버 꾸미기 gif.gif)
+  ![diary_design](readme.assets/diary_design.gif)
+  
+  
   
   
 
 
 - 다이어리 전송
 
-  ![다이어리 전송 gif](readme.assets/다이어리 전송 gif.gif)
+  ![diary_send](readme.assets/diary_send.gif)
+
+  
 
   
 
 - 일기장 도착 알람
 
-  ![일기장 도착 알람](readme.assets/일기장 도착 알람.PNG)
+  ![alarm](readme.assets/alarm.PNG)
 
   
 
-- 다이어리 드레그 앤 드롭
+  
 
-  ![다이어리 드래그앤드롭 gif](readme.assets/다이어리 드래그앤드롭 gif.gif)
+- 다이어리 드래그 앤 드롭
+
+  ![drag_drop](readme.assets/drag_drop.gif)
+
+  
 
   
 
 - 마이페이지 닉네임 변경
 
-  ![마이페이지_닉네임 변경 gif](readme.assets/마이페이지_닉네임 변경 gif.gif)
+  ![mypage](readme.assets/mypage.gif)
 
   
 
 - 로그아웃
 
-  ![로그아웃 gif](readme.assets/로그아웃 gif.gif)
+  ![logout](readme.assets/logout.gif)
   
   
