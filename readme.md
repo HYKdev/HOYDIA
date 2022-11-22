@@ -198,9 +198,7 @@ FRONTEND
 
 - 감성 페어 찾기
 
-  ![](assets/감성 페어 찾기 gif-16679796256149.gif)
-
-  
+  ![감성 페어 찾기 gif-16679796256149](readme.assets/감성 페어 찾기 gif-16679796256149.gif)
 
 - 매칭 모달
 
@@ -210,51 +208,51 @@ FRONTEND
 
 - 친구와 일기 만들기
 
-  ![](assets/친구랑 일기 만들기 gif.gif)
+  ![친구랑 일기 만들기 gif](readme.assets/친구랑 일기 만들기 gif.gif)
 
 
 
 
 - 다이어리 작성
 
-  ![](assets/다이어리 작성 gif.gif)
+  ![다이어리 작성 gif](readme.assets/다이어리 작성 gif.gif)
 
   
 
 
 - 다이어리 꾸미기
 
-  ![](assets/다이어리 커버 꾸미기 gif.gif)
+  ![다이어리 커버 꾸미기 gif](readme.assets/다이어리 커버 꾸미기 gif.gif)
   
   
 
 
 - 다이어리 전송
 
-  ![](assets/다이어리 전송 gif.gif)
+  ![다이어리 전송 gif](readme.assets/다이어리 전송 gif.gif)
 
   
 
 - 일기장 도착 알람
 
-  ![](assets/일기장 도착 알람.PNG)
+  ![일기장 도착 알람](readme.assets/일기장 도착 알람.PNG)
 
   
 
 - 다이어리 드레그 앤 드롭
 
-  ![](assets/다이어리 드래그앤드롭 gif.gif)
+  ![다이어리 드래그앤드롭 gif](readme.assets/다이어리 드래그앤드롭 gif.gif)
 
   
 
 - 마이페이지 닉네임 변경
 
-  ![](assets/마이페이지_닉네임 변경 gif.gif)
+  ![마이페이지_닉네임 변경 gif](readme.assets/마이페이지_닉네임 변경 gif.gif)
 
   
 
 - 로그아웃
 
-  ![](assets/로그아웃 gif.gif)
+  ![로그아웃 gif](readme.assets/로그아웃 gif.gif)
   
   
